@@ -1,0 +1,24 @@
+{
+  "name": "serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.461.0",
+    "@google-cloud/storage": "^7.6.0",
+    "axios": "^1.6.2",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.3.1",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "mailgun.js": "^9.3.0",
+    "path": "^0.12.7",
+    "uuid": "^9.0.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
