@@ -10,7 +10,7 @@
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.461.0",
     "@google-cloud/storage": "^7.6.0",
-    "@pulumi/gcp": "^7.2.1",
+    "@pulumi/gcp": "^7.2.1", 
     "axios": "^1.6.2",
     "buffer": "^6.0.3",
     "dotenv": "^16.3.1",
